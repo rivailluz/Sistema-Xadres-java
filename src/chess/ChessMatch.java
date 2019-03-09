@@ -17,14 +17,18 @@ public class ChessMatch {
         ChessPiece [][] aux = new ChessPiece[board.getRows()][board.getColumns()];
         
         for(int i=0 ; i < board.getRows(); i++){
-            for(int j=0 ; j<board.getColumns(); j ++){
+            for(int j=0 ; j< board.getColumns(); j ++){
                 aux[i][j] = (ChessPiece) board.piece(i,j);
             }
         }
         return aux;
     }
     
+    private void placeNewPiece(char column,int row, ChessPiece piece){
+        board.placePiece(piece , new ChessPosition(column,row).toPosition());
+    }
+    
     public void initialSetup(){
-        board.placePiece(new King(Color.BLACK, board), new Position(7,3));
+        placeNewPiece('a',1, new King(Color.BLACK, board));
     }
 }
