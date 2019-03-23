@@ -2,19 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/aplication/UI.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/chess/piece/Rook.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/chess/ChessPiece.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/boardgame/Position.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/chess/Color.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/aplication/Program.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/chess/ChessPosition.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/chess/ChessException.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/chess/ChessMatch.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/boardgame/Piece.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/boardgame/Board.java</file>
-            <file>file:/C:/Users/rivai/OneDrive/Documentos/NetBeansProjects/sistema-xadrez/src/boardgame/BoardException.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
